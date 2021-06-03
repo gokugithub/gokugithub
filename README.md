@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gokugithub
+- 👀 I’m interested in Python
